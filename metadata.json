@@ -1,0 +1,8 @@
+{
+  "name": "ASKIA – Supervisi Manajerial Sekolah",
+  "description": "Sistem informasi supervisi manajerial sekolah komprehensif untuk Kepala Sekolah di Indonesia dengan penilaian 15 unit kerja, analisis AI, tindak lanjut (RTL), dan pelaporan resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
